@@ -1,0 +1,6 @@
+.vscode/*
+data/*
+!data/snail.jpeg
+!data/snail.png
+output/*
+target/*
